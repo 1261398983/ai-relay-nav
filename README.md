@@ -16,7 +16,7 @@
 | KKToken | 送 $70（GitHub 登录） | $20 | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://kktoken.cc/sign-up?aff=gJcG) |
 | CheapCodex | 送 $20（QQ 邮箱） | $20（签到暂停中） | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://api.cheapcodex.online/register?aff=F2PXPHHNUTLE) |
 | Liminality | 送 $50 | $20+ | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://beizhi.sylu.cc/sign-up?aff=SfeQ) |
-| DSH API | 注册即用，国模分组 0.08x（官网价 8%） | — | 2026-09-30 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://api.dshapi.icu/r/T8KiaeGU) |
+| 97wl | 注册即用，国模分组 0.08x（官网价 8%） | — | 2026-09-30 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://api.97wl.cc/r/T8KiaeGU) |
 
 **备注**
 
