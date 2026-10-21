@@ -1,4 +1,4 @@
-# AI公益站、中转站推荐
+# RELAY X · 逆向工程 | AI 公益站与中转站推荐 — AI公益站、中转站推荐
 
 [![Stars](https://img.shields.io/github/stars/wbatman/ai-relay-nav?style=flat-square)](https://github.com/wbatman/ai-relay-nav/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/wbatman/ai-relay-nav?style=flat-square)](https://github.com/wbatman/ai-relay-nav/commits/main)
