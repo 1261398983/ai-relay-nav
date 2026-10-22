@@ -9,9 +9,9 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[Sample Gateway](https://your-endpoint.example.com/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> **[Sample Gateway]()** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →](https://your-endpoint.example.com/)
+> [[CC] 改两行环境变量即可接入 →]()
 
 
 | 站点 | 注册福利 | 每日签到 | 更新日期 | 链接 |
@@ -24,7 +24,7 @@
 | KKToken | 送 $70（GitHub 登录） | $20 | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://kktoken.cc/sign-up?aff=gJcG) |
 | CheapCodex | 送 $20（QQ 邮箱） | $20（签到暂停中） | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://api.cheapcodex.online/register?aff=F2PXPHHNUTLE) |
 | Liminality | 送 $50 | $20+ | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://beizhi.sylu.cc/sign-up?aff=SfeQ) |
-| removed | 注册即用，国模分组 0.08x（官网价 8%） | — | 2026-09-30 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://your-endpoint.example.com/) |
+| removed | 注册即用，国模分组 0.08x（官网价 8%） | — | 2026-09-30 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)]() |
 
 **备注**
 
@@ -35,7 +35,7 @@
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[Sample Gateway](https://your-endpoint.example.com/)**：
+本站整理的中转站里，我长期自用的是 **[Sample Gateway]()**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -53,5 +53,5 @@
 
 [中转目录](https://1261398983.github.io/ai-api-relay-directory/) · [Proxy 清单](https://1261398983.github.io/ai-api-proxy-list/) · [快速接入](https://1261398983.github.io/ai-api-quickstart/) · [免费站点清单](https://1261398983.github.io/ai-coding-free-sites/) · [中转导航](https://1261398983.github.io/ai-api-zhongzhuan/)
 
-**[Sample Gateway 中转站](https://your-endpoint.example.com/)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
+**[Sample Gateway 中转站]()** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
