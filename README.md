@@ -1,4 +1,4 @@
-# Sample Gateway · 逆向工程 | AI 公益站与中转站推荐 — AI公益站、中转站推荐
+# 示例网关 · 逆向工程 | AI 公益站与中转站推荐 — AI公益站、中转站推荐
 
 [![Stars](https://img.shields.io/github/stars/wbatman/ai-relay-nav?style=flat-square)](https://github.com/wbatman/ai-relay-nav/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/wbatman/ai-relay-nav?style=flat-square)](https://github.com/wbatman/ai-relay-nav/commits/main)
@@ -9,7 +9,7 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
+> 注册只需 邮箱，、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
 
 
 | 站点 | 注册福利 | 每日签到 | 更新日期 | 链接 |
@@ -20,7 +20,7 @@
 | 一梦五千年 | 送额度 | 送额度 | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://fapi.leileihog.top/sign-up?aff=PfUy) |
 | JustDoWork | 送 $70（GitHub 登录） | $20+ | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://api.justwoker.icu/sign-up?aff=GDwD) |
 | KKToken | 送 $70（GitHub 登录） | $20 | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://kktoken.cc/sign-up?aff=gJcG) |
-| CheapCodex | 送 $20（QQ 邮箱） | $20（签到暂停中） | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://api.cheapcodex.online/register?aff=F2PXPHHNUTLE) |
+| CheapCodex | 送 $20（邮箱） | $20（签到暂停中） | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://api.cheapcodex.online/register?aff=F2PXPHHNUTLE) |
 | Liminality | 送 $50 | $20+ | 2026-09-09 | [![Register](https://img.shields.io/badge/Register-blue?style=flat-square)](https://beizhi.sylu.cc/sign-up?aff=SfeQ) |
 
 **备注**
@@ -34,7 +34,7 @@
 
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
-- **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
+- **注册门槛低** — 邮箱即可，、无需手机号、无需外币卡
 - **计费透明** — 按量计费，输入输出分开计价，分组与模型倍率在控制台公开
 - **可审计** — 基于开源 Sub2API 面板，每笔调用扣费可明细查询
 - **起充低** — 人民币 10 元起，可以先小额试

@@ -1,5 +1,5 @@
-﻿title: Sample Gateway · 逆向工程 | AI 公益站与中转站导航
-description: Sample Gateway 逆向工程 API 网关：国模（DeepSeek 等）+ Claude / GPT / Gemini 统一端点。附 AI 公益站与 API 中转站推荐、福利对比。
+﻿title: 示例网关 · 逆向工程 | AI 公益站与中转站导航
+description: 示例网关 逆向工程 API 网关：国模（DeepSeek 等）+ Claude / GPT / Gemini 统一端点。附 AI 公益站与 API 中转站推荐、福利对比。
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
